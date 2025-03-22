@@ -16,3 +16,4 @@ decrementer.onclick = function () {
     count--;
     counter.textContent = count;
 }
+console.log("i add this line just for being my project the part of java script more than css");
