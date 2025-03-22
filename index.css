@@ -12,8 +12,6 @@
     position: relative;
     top:5rem;
     font-size: 70px;
-    font-weight: bold;
-
 }
 #decrementer , #incrementer  , #refrech{
     background-color: rgba(76, 190, 237, 0.55);
